@@ -1,0 +1,30 @@
+h1{
+    color: darkred;
+}
+
+p{
+    color: firebrick;
+}
+
+p.center{
+    color: orangered;
+    font-size: 32px;
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ul.fondo{
+    background: antiquewhite;
+    padding: 20px;
+}
+
+ol.upr{
+    list-style-type: upper-roman;
+}
+
+ol.lwa{
+    list-style-type: lower-alpha;
+}
